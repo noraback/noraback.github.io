@@ -1,0 +1,57 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1417173302910">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_b-master.css" crc="416745478" ref="graafinen-suunnittelu:web:kustaan-perilliset:ilmasilta:valokuvaus:3d"/>
+    <file name="master_a-master.css" crc="3830003866" ref="valovirta:graafinen-suunnittelu:työt:kontakti:index:web:kustaan-perilliset:nyt:ilmasilta:valokuvaus:3d"/>
+    <file name="valovirta.css" crc="337919438" ref="valovirta"/>
+    <file name="graafinen-suunnittelu.css" crc="232657966" ref="graafinen-suunnittelu"/>
+    <file name="ty_t.css" crc="432820015" ref="työt"/>
+    <file name="kontakti.css" crc="21376652" ref="kontakti"/>
+    <file name="index.css" crc="93468446" ref="index"/>
+    <file name="web.css" crc="268687357" ref="web"/>
+    <file name="kustaan-perilliset.css" crc="3880585244" ref="kustaan-perilliset"/>
+    <file name="nyt.css" crc="131727176" ref="nyt"/>
+    <file name="ilmasilta.css" crc="1804101" ref="ilmasilta"/>
+    <file name="valokuvaus.css" crc="31619183" ref="valokuvaus"/>
+    <file name="3d.css" crc="521649564" ref="3d"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="valovirta:kontakti:työt:nyt:index:graafinen-suunnittelu:valokuvaus:web:3d:kustaan-perilliset:ilmasilta"/>
+    <file name="museutils.js" crc="3777594392" ref="valovirta:kontakti:työt:nyt:index:graafinen-suunnittelu:valokuvaus:web:3d:kustaan-perilliset:ilmasilta"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="valovirta:kontakti:työt:nyt:index:graafinen-suunnittelu:valokuvaus:web:3d:kustaan-perilliset:ilmasilta"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="valovirta:kontakti:työt:nyt:index:graafinen-suunnittelu:valokuvaus:web:3d:kustaan-perilliset:ilmasilta"/>
+    <file name="html5shiv.js" crc="4241844378" ref="valovirta:kontakti:työt:nyt:index:graafinen-suunnittelu:valokuvaus:web:3d:kustaan-perilliset:ilmasilta"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="271437412" ref="valovirta:kontakti:työt:nyt:index:graafinen-suunnittelu:valokuvaus:web:3d:kustaan-perilliset:ilmasilta"/>
+    <file name="ajassa.png" crc="3958357501" ref="valovirta:kontakti:index:graafinen-suunnittelu:valokuvaus:3d"/>
+    <file name="scara.png" crc="4158742336" ref="valovirta:työt:index:graafinen-suunnittelu:valokuvaus:3d"/>
+    <file name="active.png" crc="3894864520" ref="valovirta:index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="ilmasilta.png" crc="121199868" ref="valovirta:kontakti:index:graafinen-suunnittelu:valokuvaus:3d"/>
+    <file name="kallioseikkailu.png" crc="4166300717" ref="valovirta:kontakti:työt:index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="sininen.png" crc="3985875558" ref="valovirta:index:graafinen-suunnittelu:valokuvaus:3d"/>
+    <file name="kustaa_juliste.png" crc="3823857089" ref="valovirta:index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="kesatyo.png" crc="4140284505" ref="valovirta:työt:index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="kuperkeikka.png" crc="4237950834" ref="valovirta:index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="sinimaatuska.png" crc="246789826" ref="kontakti:index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="lehtii.png" crc="3760581350" ref="työt:index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="pinkkimaatuska.png" crc="203896002" ref="index:graafinen-suunnittelu:valokuvaus:3d"/>
+    <file name="electricia.png" crc="76862109" ref="index:graafinen-suunnittelu:valokuvaus:web:3d"/>
+    <file name="vihreetoimisto.png" crc="4169400760" ref="index:graafinen-suunnittelu:valokuvaus:3d"/>
+    <file name="kustaa_juliste-crop-u1766.jpg" crc="3785016882" ref="kustaan-perilliset"/>
+    <file name="kustaa-crop-u1768.jpg" crc="4235025584" ref="kustaan-perilliset"/>
+    <file name="ilmasilta.jpg" crc="4043838196" ref="ilmasilta"/>
+    <file name="ilmasilta2-crop-u1951.jpg" crc="3827979788" ref="ilmasilta"/>
+  </folder>
+  <file name="valovirta.html" crc="4283062235" mt="1417173297918" redirect="true"/>
+  <file name="kontakti.html" crc="3942394222" mt="1417173297900" redirect="true"/>
+  <file name="työt.html" crc="58576828" mt="1417173297908" redirect="true"/>
+  <file name="nyt.html" crc="4060328040" mt="1417172031072" redirect="true"/>
+  <file name="index.html" crc="4231350935" mt="1417173297920" redirect="true"/>
+  <file name="graafinen-suunnittelu.html" crc="3779779732" mt="1417173297916" redirect="true"/>
+  <file name="valokuvaus.html" crc="7820995" mt="1417173297903" redirect="true"/>
+  <file name="web.html" crc="3956672506" mt="1417173297906" redirect="true"/>
+  <file name="3d.html" crc="325814833" mt="1417173297912" redirect="true"/>
+  <file name="kustaan-perilliset.html" crc="34693635" mt="1417173297577" redirect="true"/>
+  <file name="ilmasilta.html" crc="288005117" mt="1417173297451" redirect="true"/>
+</manifest>
